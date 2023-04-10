@@ -1,0 +1,4 @@
+﻿  kochubey_lab2.cpp
+D:\Programming\C++\ws-workspace\cpp_labwork\kochubey_lab2\kochubey_lab2\kochubey_lab2.cpp(20,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programming\C++\ws-workspace\cpp_labwork\kochubey_lab2\kochubey_lab2\kochubey_lab2.cpp(164,21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  kochubey_lab2.vcxproj -> D:\Programming\C++\ws-workspace\cpp_labwork\kochubey_lab2\x64\Debug\kochubey_lab2.exe
