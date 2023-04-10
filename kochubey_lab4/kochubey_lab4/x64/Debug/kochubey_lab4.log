@@ -1,0 +1,4 @@
+﻿  kochubey_lab4.cpp
+D:\Programming\C++\ws-workspace\cpp_labwork\kochubey_lab4\kochubey_lab4\kochubey_lab4.cpp(195,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programming\C++\ws-workspace\cpp_labwork\kochubey_lab4\kochubey_lab4\kochubey_lab4.cpp(122): warning C4715: Figure::get_area: значение возвращается не при всех путях выполнения
+  kochubey_lab4.vcxproj -> D:\Programming\C++\ws-workspace\cpp_labwork\kochubey_lab4\x64\Debug\kochubey_lab4.exe
