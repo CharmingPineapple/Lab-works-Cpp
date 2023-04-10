@@ -1,0 +1,5 @@
+﻿  kochubey_superlab_1.cpp
+D:\Programming\C++\ws-workspace\cpp_labwork\kochubey_superlab_1\kochubey_superlab_1\kochubey_superlab_1.cpp(558,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Programming\C++\ws-workspace\cpp_labwork\kochubey_superlab_1\kochubey_superlab_1\kochubey_superlab_1.cpp(909): warning C4715: weapon_selection: значение возвращается не при всех путях выполнения
+D:\Programming\C++\ws-workspace\cpp_labwork\kochubey_superlab_1\kochubey_superlab_1\kochubey_superlab_1.cpp(933): warning C4715: find_trap: значение возвращается не при всех путях выполнения
+  kochubey_superlab_1.vcxproj -> D:\Programming\C++\ws-workspace\cpp_labwork\kochubey_superlab_1\x64\Debug\kochubey_superlab_1.exe
